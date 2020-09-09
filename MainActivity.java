@@ -45,27 +45,27 @@ public class MainActivity extends AppCompatActivity {
 
 
     public static String informatik_FT() {
-        Globals.output="Informatik_FT" + "\nMid = 814 003 1606" + "\nKennwort = 001148";
+        Globals.output="Informatik_FT" + "\nMid = ###########" + "\nKennwort = ######";
         return Globals.output;
     }
 
     public static String mathe_HK() {
-        Globals.output = "Mathe_HK"+ "\nMid= " + "602 138 0304" + "\nKennwort = 5NZ6V0";
+        Globals.output = "Mathe_HK"+ "\nMid= " + "###########" + "\nKennwort = #####";
         return Globals.output;
     }
 
     public static String physiks_HS() {
-        Globals.output="Physiks_HS" + "\nMid = 572 418 8429" + "\nKennwort = 120386";
+        Globals.output="Physiks_HS" + "\nMid = ##########" + "\nKennwort = ######";
         return Globals.output;
     }
 
     public static String chemie_HM() {
-        Globals.output = "Chemie_HM "+"\nMid = 698 674 4268" +"\nKennwort = 115348";
+        Globals.output = "Chemie_HM "+"\nMid = ##########" +"\nKennwort = #######";
         return Globals.output;
     }
 
     public static String deutsch_FS() {
-        Globals.output ="Deutsch_FS"+ "\nMid = 848 3996 2025"+"\nKennwort = 841955";
+        Globals.output ="Deutsch_FS"+ "\nMid = #########"+"\nKennwort = #######";
         return Globals.output;
     }
 
